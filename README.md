@@ -295,11 +295,17 @@ Ces questionnements nous permettent d'achever notre réflexion et d'ouvrir le ch
 ## Bibliographie
 
 “Europe’s Top 10 Cities for Culture.” The Social Hub. [Lien](https://www.thesocialhub.co/blog/top-10-cities-for-culture-in-europe/) 
+<br>
 “Europe’s Best Cities.” Best Cities, July 5, 2023. [Lien](https://www.worldsbestcities.com/rankings/europes-best-cities/)
+<br>
 Post, LDN Guest. “Europe’s Best Cities for Culture.” London Daily News, June 20, 2023. [Lien](https://www.londondaily.news/europes-best-cities-for-culture/)
+<br>
 Tamsin S.Editor. “London Is Crowned Europe’s Top City for Culture.” Thatsup, June 20, 2023. [Lien](https://thatsup.co.uk/london/article/london-is-crowned-europes-top-city-for-culture/)
+<br>
 Taylor, Henrietta. “This European City Has Just Been Voted the Best for Culture.” Time Out London, June 26, 2023. [Lien](https://www.timeout.com/london/news/london-has-been-crowned-the-best-city-in-europe-for-culture-062323)
+<br>
 Tourism, UNESCODepartment of Culture and, and Unesco. “Culture & Développement Durable.” UNESCO, January 1, 1970. [Lien](https://www.unesco.org/fr/sustainable-development/culture#:~:text=DE%20LA%20CULTURE-,1982,société%20ou%20un%20groupe%20social%20»)
+<br>
 
 
 ### Camille Delmotte, Marguerite Demoures, Louise Lejeune, Mohamed Mebarki, et Remi Guezofje.
