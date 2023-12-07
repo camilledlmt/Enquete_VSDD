@@ -110,7 +110,7 @@ G. __Nombre d'événements théâtraux__
 ### Méthodologie 
 
 
-Les auteurs ont analysé les [50 villes européennes les mieux notées](https://www.worldsbestcities.com/rankings/europes-best-cities/) et les ont comparé grâce à leur série de 7 indiacteurs. Chaque indicateur a reçu une note sur 10 pour créer l'indice final. 
+Les auteurs ont analysé les [50 villes européennes les mieux notées](https://www.worldsbestcities.com/rankings/europes-best-cities/) et les ont comparé grâce à leur série de 7 indicateurs. Chaque indicateur a reçu une note sur 10 pour créer l'indice final. 
 
 Pour référence, voici les catégories utilisées par le site web WorldsBestCities pour l'établissement de leur propre classement : 
 
@@ -268,7 +268,7 @@ Globalement, ce classement vise à guider les voyageurs désireux de découvrir 
 style="text-align: 
 justify">
 
-Nous avons contacté diverses personnes dans l'espoir de conduire un ou plusieurs entretiens pour nous aider à construire notre réflexion. Cependant, nous sommes encore dans l'attente de réponses ou de date fixe pour un entretien. Nous sommes notamment en contact avec Robert Lacombe, sous-directeur de la création artistique à la ville de Paris, mais n'avons pas pu fixer une date avant la date limite du rendu de l'enquête collective. Nous avons également contacté un autre organisme ayant publié un classement similaire, et une personne travaillant pour des pratiques culturelles non-représentées (le festival et les jardins publics), sans réponse. 
+Nous avons contacté diverses personnes dans l'espoir de conduire un ou plusieurs entretiens pour nous aider à construire notre réflexion. Cependant, nous sommes encore dans l'attente de réponses ou de date fixe pour un entretien. Nous sommes notamment en contact avec Robert Lacombe, sous-directeur de la création artistique à la ville de Paris, mais n'avons pas pu fixer une date avant la date limite du rendu de l'enquête collective. Nous avons également contacté un autre organisme ayant publié un classement similaire, et des personnes travaillant pour des pratiques culturelles non-représentées (le festival et les jardins publics), sans réponse jusqu'à très récemment: un entretien est prévu après le rendu de l'enquête collective.
 
 </div>
 
@@ -282,7 +282,7 @@ Cependant, nous souhaitons tout de même partager avec vous les questionnements 
 
 <br>
 
-Nous avions pour but de débuter nos entretiens avec des questions générales portant sur le contexte de la quantification de la culture, comme l'importance de la culture ainsi que sa mesure dans les villes. Par la suite, si nous avions réussi à rentrer en contact avec les créateurs du classement de The Social Hub, nous leur aurions évidemment posé des questions concernant leur méthodologie et les critères qu'ils ont choisi. De plus, nous aurions voulu évoquer des comparaisons avec d'autres méthodes de classement, comme l'élection de la capitale européenne, qui nous permet de nous demander si nous devrions classer ou mesurer les villes ? Evidemment, nous aurions également évoqué les critiques et limitations reliées à ce genre de classement, tout en demandant comment s’assurer de l’éthique dans la collecte de données culturelles et comment éviter les biais culturels ou stéréotypes?  Pour les personnes travaillant dans le domaine de la culture, notamment par rapport à la gestion de budgets, nous nous serions intéressés au rôle qu'occupent diverses mesures quantitatives dans leur métier, par rapport à l'appréciation qualitative : de telles mesures leurs sont-elles utiles, leur utilisation leur est-elle imposée de l'extérieur? Pour conclure, l'impact du classement ainsi que des perspectives futures auraient été abordées : quelle est l'influence de ce genre de classement sur les politiques culturelles locales et sur le tourisme, et comment pourraient évoluer les classements dans le futur? 
+Nous avions pour but de débuter nos entretiens avec des questions générales portant sur le contexte de la quantification de la culture, comme l'importance de la culture ainsi que sa mesure dans les villes. Par la suite, si nous avions réussi à rentrer en contact avec les créateurs du classement de The Social Hub, nous leur aurions évidemment posé des questions concernant leur méthodologie et les critères qu'ils ont choisi. De plus, nous aurions voulu évoquer des comparaisons avec d'autres méthodes de classement, comme l'élection de la capitale européenne, qui nous permet de nous demander si nous devrions classer ou mesurer les villes ? Evidemment, nous aurions également évoqué les critiques et limitations reliées à ce genre de classement, tout en demandant comment s’assurer de l’éthique dans la collecte de données culturelles et comment éviter les biais culturels ou stéréotypes?  Pour les personnes travaillant dans le domaine de la culture, notamment par rapport à la gestion de budgets, nous nous serions intéressés au rôle qu'occupent diverses mesures quantitatives dans leur métier, par rapport à l'appréciation qualitative : de telles mesures leurs sont-elles utiles, leur utilisation leur est-elle imposée de l'extérieur? Nous aurions également demandé à ces personnes ce qu’elles pensent du fait que la ville classée n°1 dans le classement est aussi la plus chère. La métrique du prix est-elle neutre selon eux ? La culture doit-elle être à la portée de tous ? Des pratiques très stratifiées socialement sont-elles un bon reflet de la culture d’un lieu ? Y a-t-il un lien inextricable entre valeur monétaire et valeur culturelle ? Pour conclure, l'impact du classement ainsi que des perspectives futures auraient été abordées : quelle est l'influence de ce genre de classement sur les politiques culturelles locales et sur le tourisme, et comment pourraient évoluer les classements dans le futur? 
 
 <br>
 
@@ -297,6 +297,8 @@ Ces questionnements nous permettent d'achever notre réflexion et d'ouvrir le ch
 “Europe’s Top 10 Cities for Culture.” The Social Hub. [Lien](https://www.thesocialhub.co/blog/top-10-cities-for-culture-in-europe/) 
 <br>
 “Europe’s Best Cities.” Best Cities, July 5, 2023. [Lien](https://www.worldsbestcities.com/rankings/europes-best-cities/)
+<br>
+Giblin, Béatrice. Le paradoxe français: entre fierté nationale et hantise du déclin. Armand Colin, 2017.
 <br>
 Post, LDN Guest. “Europe’s Best Cities for Culture.” London Daily News, June 20, 2023. [Lien](https://www.londondaily.news/europes-best-cities-for-culture/)
 <br>
